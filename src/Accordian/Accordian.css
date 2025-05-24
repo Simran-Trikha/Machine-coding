@@ -1,0 +1,12 @@
+.Accordian-Container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .accordian-inner-container {
+    display: flex;
+    border: 1px solid grey;
+    padding: 16px;
+    flex-direction: column;
+  }
+  

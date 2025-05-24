@@ -11,7 +11,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="main-container">
-        <div> React App</div>
+        <div>This is a Docker React App</div>
         <nav className="nav">
           <a href="/shimmer-ui">Shimmer UI</a>
           <a href="/infinite-scroll"> Infinite Scroll </a>
